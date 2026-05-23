@@ -1,34 +1,39 @@
-# Hi, I'm Poey 👋
+<div align="center">
 
-A developer who enjoys building clean and practical software.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Poey%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Working%20from%20Home%20🏠&descAlignY=55&descSize=18" width="100%"/>
 
----
+</div>
 
-## 🛠️ Technologies & Skills
+<br/>
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+### 🛠️ Tech Stack
 
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,docker,aws,gcp&theme=dark&perline=8" />
+
+</div>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=poey-drp&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poey-drp&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
+### 📊 GitHub Stats
 
----
+<br/>
 
-<sub>Working from home 🏠</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=poey-drp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poey-drp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
