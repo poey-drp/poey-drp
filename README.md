@@ -8,16 +8,46 @@
 
 <div align="center">
 
-## 🙋 About Me
+## 💡 What I Do
 
-| | |
-|---|---|
-| 🤖 | Building **RAG systems** and **LLM-powered apps** with Ollama, Claude & Gemini |
-| 🎙️ | Developing **real-time Speech-to-Text** using Whisper & WebSocket |
-| 📚 | Contributor to a full-stack **E-Learning platform** (Web / Mobile / Backend) |
-| 📈 | Experimenting with **ML-based trading bots** and market data pipelines |
-| 🔧 | Automating workflows with **Telegram bots** and n8n |
-| 🏠 | Working from home — turning coffee into code |
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>
+      <b>AI & LLM Engineering</b><br/>
+      <sub>Design and deploy LLM-powered apps,<br/>RAG pipelines, and fine-tuned models</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>
+      <b>Voice & Speech AI</b><br/>
+      <sub>Build real-time speech-to-text systems<br/>with streaming and low-latency delivery</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+      <b>Full-Stack Development</b><br/>
+      <sub>Craft web and mobile applications<br/>from frontend to backend</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <b>Data & ML Pipelines</b><br/>
+      <sub>Automate data flows, build predictive<br/>models and analytical dashboards</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
+      <b>DevOps & Cloud Deploy</b><br/>
+      <sub>Containerize and ship services<br/>across AWS and GCP infrastructure</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=bash" width="48"/><br/>
+      <b>Automation & Bots</b><br/>
+      <sub>Automate repetitive tasks and<br/>build smart chatbot integrations</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
