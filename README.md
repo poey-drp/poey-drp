@@ -39,7 +39,7 @@
     <td align="center" width="200">
       <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
       <b>DevOps & Cloud Deploy</b><br/>
-      <sub>Containerize and ship services<br/>across AWS and GCP infrastructure</sub>
+      <sub>Containerize and ship services across<br/>AWS, GCP, and Linux environments</sub>
     </td>
     <td align="center" width="200">
       <img src="https://skillicons.dev/icons?i=bash" width="48"/><br/>
@@ -61,7 +61,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,docker,aws,gcp&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,docker,aws,gcp,linux&theme=dark&perline=9" />
 
 </div>
 
