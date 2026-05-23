@@ -25,7 +25,7 @@
       <sub>Build real-time speech-to-text systems<br/>with streaming and low-latency delivery</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=vue" width="48"/><br/>
       <b>Full-Stack Development</b><br/>
       <sub>Craft web and mobile applications<br/>from frontend to backend</sub>
     </td>
