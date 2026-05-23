@@ -34,7 +34,7 @@
     <td align="center" width="200">
       <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
       <b>Data & ML Pipelines</b><br/>
-      <sub>Automate data flows, build predictive<br/>models and analytical dashboards</sub>
+      <sub>Automate data flows, build predictive models,<br/>and ship interactive dashboards with Streamlit</sub>
     </td>
     <td align="center" width="200">
       <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
@@ -62,6 +62,10 @@
 <br/>
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,docker,aws,gcp,linux&theme=dark&perline=9" />
+
+<br/>
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
