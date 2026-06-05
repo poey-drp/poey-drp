@@ -71,6 +71,39 @@
 
 <br/>
 
+---
+
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="64"/><br/>
+      <b>Pull Shark</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64"/><br/>
+      <b>Quickdraw</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="64"/><br/>
+      <b>Starstruck</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64"/><br/>
+      <b>YOLO</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
