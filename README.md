@@ -71,6 +71,21 @@
 
 <br/>
 
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=poey-drp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poey-drp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+<br/>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
