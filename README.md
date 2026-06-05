@@ -79,26 +79,12 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="64"/><br/>
-      <b>Pull Shark</b>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64"/><br/>
-      <b>Quickdraw</b>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="64"/><br/>
-      <b>Starstruck</b>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64"/><br/>
-      <b>YOLO</b>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/>
+</p>
 
 </div>
 
